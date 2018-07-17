@@ -1,41 +1,27 @@
-Template
+Scope
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+This rep. is property of HCL Technology and carries informations for new joiner welcome pack for HCL frane
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+Copyright
 --------
 
-- Be awesome
-- Make things faster
+- HCL.COM
 
-Installation
+Content
 ------------
 
-Install $project by running:
+Pre-onboarding
+Onboarding Documentation
+Onboarding actions (Day0/ Day1 / Week1)
 
-    install project
-
-Contribute
+Version
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- V1.0.0
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+User HCL contacts provided in welcome pack.

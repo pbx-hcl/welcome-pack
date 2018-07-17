@@ -1,6 +1,5 @@
 ============
-Installation
-============
+Prior to OnBoarding============
 
 Install the package with pip::
 
